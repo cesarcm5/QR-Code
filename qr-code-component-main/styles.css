@@ -1,15 +1,30 @@
 body {
     background-color: lightgray;
-}
-.container {
-    width: 15%;
     display: flex;
-    margin-left: 40%;
-    margin-top: 15%;
+    justify-content: center;
+    align-items: center;
+    font-family: Outfit;
+    margin-top: 12%;
+}
+.QR-Container {
     background-color: white;
+    padding: 15px;
+    border-radius: 15px;
+    width: 17%;
 }
 img {
     width: 100%;
     border-radius: 15px;
-    padding: 10px;
+}
+.title {
+    font-weight: 700;
+    text-align: center;
+    color: darkblue;
+    font-size: 20px;
+}
+.info {
+    font-weight: 400;
+    color: gray;
+    font-size: 15px;
+    text-align: center;
 }
