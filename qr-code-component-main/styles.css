@@ -1,0 +1,15 @@
+body {
+    background-color: lightgray;
+}
+.container {
+    width: 15%;
+    display: flex;
+    margin-left: 40%;
+    margin-top: 15%;
+    background-color: white;
+}
+img {
+    width: 100%;
+    border-radius: 15px;
+    padding: 10px;
+}
