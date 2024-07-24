@@ -10,7 +10,8 @@ body {
     background-color: white;
     padding: 15px;
     border-radius: 15px;
-    width: 17%;
+    width: 90%;
+    max-width: 375px;
 }
 img {
     width: 100%;
